@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tema-ri-frontend/static/css/main.a009863f.css",
+    "main.js": "/tema-ri-frontend/static/js/main.c3f04a94.js",
+    "static/js/453.d855a71b.chunk.js": "/tema-ri-frontend/static/js/453.d855a71b.chunk.js",
+    "static/media/mimi.jpg": "/tema-ri-frontend/static/media/mimi.e5f379594f034de29ff0.jpg",
+    "static/media/adrian.jpg": "/tema-ri-frontend/static/media/adrian.667dbd8faffb9f6e8e3f.jpg",
+    "static/media/logo.svg": "/tema-ri-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tema-ri-frontend/index.html",
+    "main.a009863f.css.map": "/tema-ri-frontend/static/css/main.a009863f.css.map",
+    "main.c3f04a94.js.map": "/tema-ri-frontend/static/js/main.c3f04a94.js.map",
+    "453.d855a71b.chunk.js.map": "/tema-ri-frontend/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a009863f.css",
+    "static/js/main.c3f04a94.js"
+  ]
+}
